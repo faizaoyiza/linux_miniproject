@@ -28,15 +28,3 @@ echo "Here is an actual code that gets executed"
 <img width="932" alt="Image" src="https://github.com/user-attachments/assets/25f7c2cf-2780-4e9a-b51c-165ce43607b6" />
 This approach is straightforward and is commonly used for adding brief descriptions or notes spanning multiple lines.
 
-## Best Practices for Commenting
-
-- **Clarity**: Write clear and concise comments that explain the "why" behind the code, not just the "what".
-- **Maintainability**: Keep comments updated as you modify the code to ensure they remain relevant and helpful.
-- **Usefulness**: Comment on complex or non-obvious parts of the script to provide insights into your thought process and decision-making.
-- **Avoid Overcommenting**: Don't comment on every line of code, especially if the code is self-explanatory. Focus on parts that benefit from additional explanation.
-
----
-
-At this stage, you've established a solid foundation in Bash/shell scripting. *(It's worth noting that Bash and Shell are similar in functionality, which is why their names are often used interchangeably, despite being distinct interpreters.)*
-
-Moving forward, you will embark on a capstone project that provides an opportunity for hands-on practice, allowing you to apply your scripting skills in a practical setting and truly immerse yourself in the coding experience.
