@@ -80,6 +80,7 @@ To create S3 buckets for different departments in a company and ensure that:
 | `README.md`            | This documentation file              |
 
 ---
+<img width="700" alt="Image" src="https://github.com/user-attachments/assets/ed705439-1c31-45c7-b06d-e08323526d25" />
 
 ## 📚 Learning Outcomes
 
