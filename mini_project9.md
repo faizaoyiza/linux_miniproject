@@ -47,7 +47,7 @@ To create S3 buckets for different departments in a company and ensure that:
    ```bash
    chmod +x create_s3_buckets.sh
    ```
-
+<img width="956" alt="Image" src="https://github.com/user-attachments/assets/89dcd980-1677-4927-912f-bfec78fbae7d" />
 3. Run the script:
 
    ```bash
